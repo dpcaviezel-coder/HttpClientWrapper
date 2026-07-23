@@ -1,0 +1,15 @@
+C:\Users\dpcav\source\repos\HttpClientWrapper\bin\x64\Debug\net10.0\HttpClientWrapper.exe
+C:\Users\dpcav\source\repos\HttpClientWrapper\bin\x64\Debug\net10.0\HttpClientWrapper.deps.json
+C:\Users\dpcav\source\repos\HttpClientWrapper\bin\x64\Debug\net10.0\HttpClientWrapper.runtimeconfig.json
+C:\Users\dpcav\source\repos\HttpClientWrapper\bin\x64\Debug\net10.0\HttpClientWrapper.dll
+C:\Users\dpcav\source\repos\HttpClientWrapper\bin\x64\Debug\net10.0\HttpClientWrapper.pdb
+C:\Users\dpcav\source\repos\HttpClientWrapper\obj\x64\Debug\net10.0\HttpClientWrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpcav\source\repos\HttpClientWrapper\obj\x64\Debug\net10.0\HttpClientWrapper.AssemblyInfoInputs.cache
+C:\Users\dpcav\source\repos\HttpClientWrapper\obj\x64\Debug\net10.0\HttpClientWrapper.AssemblyInfo.cs
+C:\Users\dpcav\source\repos\HttpClientWrapper\obj\x64\Debug\net10.0\HttpClientWrapper.csproj.CoreCompileInputs.cache
+C:\Users\dpcav\source\repos\HttpClientWrapper\obj\x64\Debug\net10.0\HttpClientWrapper.sourcelink.json
+C:\Users\dpcav\source\repos\HttpClientWrapper\obj\x64\Debug\net10.0\HttpClientWrapper.dll
+C:\Users\dpcav\source\repos\HttpClientWrapper\obj\x64\Debug\net10.0\refint\HttpClientWrapper.dll
+C:\Users\dpcav\source\repos\HttpClientWrapper\obj\x64\Debug\net10.0\HttpClientWrapper.pdb
+C:\Users\dpcav\source\repos\HttpClientWrapper\obj\x64\Debug\net10.0\HttpClientWrapper.genruntimeconfig.cache
+C:\Users\dpcav\source\repos\HttpClientWrapper\obj\x64\Debug\net10.0\ref\HttpClientWrapper.dll
